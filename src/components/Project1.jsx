@@ -31,7 +31,7 @@ const Project1 = () => {
     images: [],
     links: {
       github: "https://github.com/kaifshahh/Portfolio",
-      live: "https://portfolio.vercel.app",
+      live: "https://portfolio-kaif-shahs-projects.vercel.app/",
     },
   };
   return (
