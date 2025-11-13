@@ -24,7 +24,7 @@ const Resume = () => {
         className="mx-auto"
       />
       <a
-        href="https://drive.google.com/file/d/1Ifm3YqkjhCmkxXXS-eEtJ3AT0j3n_qJd/view?usp=drive_link"
+        href="https://drive.google.com/file/d/17wYJ--KdAhpRsHTR1i73Fh9dQCiTLnbA/view?usp=drive_link"
         target="_blank"
         rel="noopener noreferrer"
         aria-label="Download Resume"
